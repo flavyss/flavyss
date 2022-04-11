@@ -65,5 +65,6 @@
 
 - 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
   
-
+![Snake animation](https://github.com/flavyss/flavyss/blob/7d95d3cf4514ac6e679b52c34b58fbcc98119689/.github/workflows/cobrinha.yml)
+ 
 </body>
