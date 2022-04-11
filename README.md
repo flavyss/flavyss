@@ -1,4 +1,4 @@
-<h2>💻 Olá eu sou o kriptonFLavy:Desenvolvedor & Hacker Ético💻</h2>
+<h2>💻 Olá eu sou o flavyson(KriptonFlavy) Desenvolvedor e Hacker Ético 💻 </h2>
 
 <div align="center">
   <a href="https://github.com/flavyss">
@@ -37,14 +37,27 @@
   <img align="center" alt="Rafa-Js" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Rafa-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
-          
+</div>
+
+ <h3>🔥Mihas Redes🔥</h3>
+  
+<div> 
+  <a href="https://www.youtube.com/channel/UCX_oIUoBfVJyPhkWerIQVXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/kriptonflavy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/2w5EWnks2R" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:darkLigth3.14Sh@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/flavyson-felipe-447581237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
 
+ <h3>🔥Sobre Mim🔥</h3>
+  
 - 🔭 Desenvolvedor Full-Stack
 
 - 🌱 Estudando Segurança da Informação e cursando na faculdade de física, porém ja fiz faculdade de T.I
 
 - 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
 
-- 🌎 Apenas os que se esforçam e se dedicam, alcançam a gloria e mergulham no oceano do conhecimento
+- 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
+  
