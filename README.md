@@ -1,3 +1,4 @@
+<body style="text-align:center;">
 <h2>💻 Olá eu sou o flavyson(KriptonFlavy) Desenvolvedor e Hacker Ético 💻 </h2>
 
 <div align="center">
@@ -61,3 +62,5 @@
 
 - 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
   
+
+</body>
