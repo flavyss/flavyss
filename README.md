@@ -1,7 +1,7 @@
 <body style="text-align:center;">
   
  <div align="center">
-  <img height="300em" width="75%" src="https://github.com/flavyss/flavyss/blob/c9270ae9079f3ae65571ba68795fe8a7e3c9c32b/me2.png"/>
+  <img height="300em" width="90%" src="https://github.com/flavyss/flavyss/blob/c9270ae9079f3ae65571ba68795fe8a7e3c9c32b/me2.png"/>
 </div>  <br/><br/>
   
 <div align="center">
