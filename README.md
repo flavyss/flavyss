@@ -1,13 +1,5 @@
 <h2>💻 Olá eu sou o kriptonFLavy:Desenvolvedor & Hacker Ético💻</h2>
 
-- 🔭 Desenvolvedor Full-Stack
-
-- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, porém ja fiz faculdade de T.I
-
-- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
-
-- 🌎 Apenas os que se esforçam e se dedicam, alcançam a gloria e mergulham no oceano do conhecimento
-
 <div align="center">
   <a href="https://github.com/flavyss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -46,4 +38,12 @@
           
           
 </div>
-  
+
+
+- 🔭 Desenvolvedor Full-Stack
+
+- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, porém ja fiz faculdade de T.I
+
+- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
+
+- 🌎 Apenas os que se esforçam e se dedicam, alcançam a gloria e mergulham no oceano do conhecimento
