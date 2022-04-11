@@ -1,6 +1,9 @@
 <body style="text-align:center;">
-<img width="100%" height="180em" href="https://github.com/flavyss/flavyss/blob/1cf70bc40fc17eafa8ba0e2b1533145d393b5435/me.png">
-
+  
+ <div align="center">
+  <img height="180em" width="100%" src="https://github.com/flavyss/flavyss/blob/1cf70bc40fc17eafa8ba0e2b1533145d393b5435/me.png"/>
+</div> 
+  
 <div align="center">
   <a href="https://github.com/flavyss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
