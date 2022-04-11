@@ -1,8 +1,8 @@
 <body style="text-align:center;">
   
  <div align="center">
-  <img height="180em" width="100%" src="https://github.com/flavyss/flavyss/blob/1cf70bc40fc17eafa8ba0e2b1533145d393b5435/me.png"/>
-</div> 
+  <img height="300em" width="75%" src="https://github.com/flavyss/flavyss/blob/c9270ae9079f3ae65571ba68795fe8a7e3c9c32b/me2.png"/>
+</div>  <br/><br/>
   
 <div align="center">
   <a href="https://github.com/flavyss">
