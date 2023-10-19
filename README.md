@@ -3,12 +3,16 @@
  <div align="center">
   <img height="300em" width="90%" src="https://github.com/flavyss/flavyss/blob/c9270ae9079f3ae65571ba68795fe8a7e3c9c32b/me2.png"/>
 </div>  <br/><br/>
+
+ <h3>🔥Sobre Mim🔥</h3>
   
-<div align="center">
-  <a href="https://github.com/flavyss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavyss&layout=compact&langs_count=7&theme=dark"/>
-</div>
+- 🔭 Desenvolvedor Full-Stack
+
+- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, concluí a faculdade de T.I
+
+- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
+
+- 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
   
  <h2>💻 Tecnologias que eu Desenvolvo 💻</h2>
   
@@ -55,16 +59,13 @@
   
 </div>
 
-
- <h3>🔥Sobre Mim🔥</h3>
   
-- 🔭 Desenvolvedor Full-Stack
-
-- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, concluí a faculdade de T.I
-
-- 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
-
-- 🌎 Apenas os que se esforçam e se dedicam, alcançam a glória e colocam os pés as margens do oceano do conhecimento
-  
+<div align="center">
+  <a href="https://github.com/flavyss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavyss&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavyss&layout=compact&langs_count=7&theme=dark"/>
+</div>
+ 
+ 
 ![Snake animation](https://github.com/flavyss/flavyss/blob/output/github-contribution-grid-snake.svg)
 </body>
