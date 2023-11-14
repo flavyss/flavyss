@@ -6,9 +6,9 @@
 
  <h3>🔥Sobre Mim🔥</h3>
   
-- 🔭 Software Developer | PHP | Python | Django | C | C# | Java | JavaScript | React
+- 🔭 Software Developer | PHP | Laravel | Pentest | Node | Python | React | React Native | Flutter | Javascript 
 
-- 🌱 Estudando Segurança da Informação e cursando na faculdade de física, concluí a faculdade de T.I
+- 🌱 Estudando Segurança da Informação e cursando na faculdade de física/T.I
 
 - 💬 Pode Chamar pra ajudar em qualquer coisa se eu não souber, a gente aprende junto
 
